@@ -1,0 +1,2 @@
+# Hotdogscript
+Hotdog script language
